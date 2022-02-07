@@ -1,0 +1,6 @@
+[default]
+  url = "http://localhost:8086"
+  token = ""
+  org = "Org name"
+  active = true
+
